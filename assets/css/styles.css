@@ -1,0 +1,19 @@
+*body {
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor-ppal {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.ID {
+    padding:10px;
+}
+
+.tareas {
+    padding:10px;
+}
